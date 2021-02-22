@@ -1,4 +1,4 @@
-# relinkly [![Gem Version](https://badge.fury.io/rb/relinkly.svg)](https://badge.fury.io/rb/relinkly) [![Build Status](https://travis-ci.com/cdrrazan/relinkly.svg?branch=master)](https://travis-ci.com/cdrrazan/relinkly)
+# relinkly [![Gem Version](https://badge.fury.io/rb/relinkly.svg)](https://badge.fury.io/rb/relinkly) [![Build Status](https://travis-ci.com/cyborgINX/relinkly.svg?branch=master)](https://travis-ci.com/cyborgINX/relinkly)
 
 ## Installation
 
