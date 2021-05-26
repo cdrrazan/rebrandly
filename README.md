@@ -57,7 +57,7 @@ api.delete_tag(id, options)        # DELETE /v1/tags/:id
 #### Links
 ```ruby
 api.links                           # GET /v1/links
-api.links(id)                       # GET /v1/links/:id
+api.link(id)                        # GET /v1/links/:id
 api.link_count(options)             # GET /v1/links/count
 api.new_link(options)               # GET /v1/links/new
 api.shorten(destination, options)   # POST /v1/links
